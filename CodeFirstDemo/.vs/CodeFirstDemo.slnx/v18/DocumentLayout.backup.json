@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\C#\\BTLTCS\\DoanNgocTuong_2348_CodeFirstDemo\\CodeFirstDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E612C6E1-3248-1D79-1F3C-D21E9A8EE9F4}|CodeFirstDemo\\CodeFirstDemo.csproj|e:\\c#\\btltcs\\doanngoctuong_2348_codefirstdemo\\codefirstdemo\\codefirstdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E612C6E1-3248-1D79-1F3C-D21E9A8EE9F4}|CodeFirstDemo\\CodeFirstDemo.csproj|solutionrelative:codefirstdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C#\\BTLTCS\\DoanNgocTuong_2348_CodeFirstDemo\\CodeFirstDemo\\CodeFirstDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstDemo\\Models\\Student.cs",
+              "ToolTip": "E:\\C#\\BTLTCS\\DoanNgocTuong_2348_CodeFirstDemo\\CodeFirstDemo\\CodeFirstDemo\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:45:03.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
